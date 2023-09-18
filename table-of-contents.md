@@ -59,7 +59,3 @@
   - Importance of player feedback in iterative development.
 - **Chapter 21: Future Features and Expansions**
   - Tease upcoming features and expansions with a focus on code modularity and maintainability.
-
----
-
-This updated ToC includes a dedicated section on setting up the software's infrastructure (Chapter 16), which covers essential aspects of server setup, deployment, and scalability. It ensures that readers have the guidance they need to establish a robust foundation for "Beware of Dragons."

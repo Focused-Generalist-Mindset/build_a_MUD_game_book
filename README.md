@@ -7,16 +7,13 @@ coverY: 0
 
 ![Book Image](assets/beware-of-dragons.png)
 
+# Repository overview
+
 Explore the captivating world of 'Beware of Dragons,' a high-fantasy Multi-User Dungeon (MUD) text adventure game powered by Elixir and Phoenix. From crafting rich lore to mastering distributed systems, this open-source book guides aspiring game developers through the art of game design, storytelling, and technical implementation. Discover the secrets of character classes, allegiances, and dynamic combat, while fostering player engagement through leaderboards and fair play. Immerse yourself in a realm of creativity, where imagination knows no bounds. Join our community of contributors and embark on an epic journey through 'Beware of Dragons.
 
-# "Beware of Dragons" Book Repository
-
-Welcome to the official repository for the "Beware of Dragons" book, an open-source resource for aspiring game developers and Elixir enthusiasts. This repository serves as a central hub for the book's content, accompanying code examples, and related resources.
-
 ## Table of Contents
-
 - [Beware of dragons in the dungeons](#beware-of-dragons-in-the-dungeons)
-- ["Beware of Dragons" Book Repository](#beware-of-dragons-book-repository)
+- [Repository overview](#repository-overview)
   - [Table of Contents](#table-of-contents)
   - [About the Book](#about-the-book)
   - [Contents](#contents)
@@ -26,7 +23,7 @@ Welcome to the official repository for the "Beware of Dragons" book, an open-sou
 
 ## About the Book
 
-"Beware of Dragons" is a comprehensive guide that takes you through the journey of creating an immersive multiplayer text adventure game using Elixir, Phoenix, and LiveView. Whether you're a seasoned developer or just starting, this book provides valuable insights into game development, distributed systems, and best practices.
+"Beware of Dragons" is a comprehensive guide that takes you through the journey of creating an immersive multiplayer text adventure game using Elixir, Phoenix, and LiveView. Whether you're a seasoned developer or just starting, this book provides valuable insights into game development, distributed systems, and best practices. In time, I hope that it becomes a community-driven effort to provide a new learning resource to pick up Phoenix/LiveView and good practices in distributed systems.
 
 ## Contents
 
