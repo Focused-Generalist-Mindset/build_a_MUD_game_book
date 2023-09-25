@@ -6,6 +6,8 @@
 
 Explore the captivating world of 'Beware of Dragons,' a high-fantasy Multi-User Dungeon (MUD) text adventure game powered by Elixir and Phoenix. From crafting rich lore to mastering distributed systems, this open-source book guides aspiring game developers through the art of game design, storytelling, and technical implementation. Discover the secrets of character classes, allegiances, and dynamic combat while fostering player engagement through leaderboards and fair play. Immerse yourself in a realm of creativity where imagination knows no bounds. Join our community of contributors and embark on an epic journey through 'Beware of Dragons.
 
+[Gitbook website](https://kevin-avignon.gitbook.io/beware-of-dragons/)
+
 ## Table of Contents
 - [Beware of dragons in the dungeons](#beware-of-dragons-in-the-dungeons)
 - [Repository overview](#repository-overview)
