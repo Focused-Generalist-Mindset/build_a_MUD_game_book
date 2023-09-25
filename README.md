@@ -1,60 +1,60 @@
-# Beware of dragons in the dungeons
+---
+description: >-
+  Immerse in a world where fantasy meets tech. Explore mythical realms, learn
+  game development, and demystify distributed systems. For software enthusiasts
+  and adventurers alike, this unique fusion awai
+cover: .gitbook/assets/image0_0.jpeg
+coverY: 0
+---
 
-![Book Image](assets/beware-of-dragons.png)
+# Why this book
 
-# Repository overview
+## Introduction
 
-Explore the captivating world of 'Beware of Dragons,' a high-fantasy Multi-User Dungeon (MUD) text adventure game powered by Elixir and Phoenix. From crafting rich lore to mastering distributed systems, this open-source book guides aspiring game developers through the art of game design, storytelling, and technical implementation. Discover the secrets of character classes, allegiances, and dynamic combat while fostering player engagement through leaderboards and fair play. Immerse yourself in a realm of creativity where imagination knows no bounds. Join our community of contributors and embark on an epic journey through 'Beware of Dragons.
+Greetings, adventurer! Prepare for a world where fantasy meets tech, dragons roam, and distributed systems become part of your epic quest. **"Beware of Dragons"** isn't a book—it's an invitation to an adventure like no other.
 
-[Gitbook website](https://kevin-avignon.gitbook.io/beware-of-dragons/)
+### Where Fantasy and Tech Collide
 
-## Table of Contents
-- [Beware of dragons in the dungeons](#beware-of-dragons-in-the-dungeons)
-- [Repository overview](#repository-overview)
-  - [Table of Contents](#table-of-contents)
-  - [About the Book](#about-the-book)
-  - [Contents](#contents)
-  - [Contributing](#contributing)
-  - [Feedback and Issues](#feedback-and-issues)
-  - [License](#license)
+In this unique journey, we blend high-fantasy tales with distributed systems. Inspired by authors like David Eddings, Christopher Paolini, and Terry Goodkind, this world combines magic and modern technology.
 
-## About the Book
+### What Awaits You
 
-"Beware of Dragons" is a comprehensive guide that takes you through the journey of creating an immersive multiplayer text adventure game using Elixir, Phoenix, and LiveView. Whether you're a seasoned developer or just starting, this book provides valuable insights into game development, distributed systems, and best practices. In time, I hope it becomes a community-driven effort to provide a new learning resource to pick up Phoenix/LiveView and good practices in distributed systems.
+#### Enchanting Fantasy Adventures
 
-## Contents
+* **Vast World:** Explore a rich, high-fantasy universe with rising kingdoms, ancient forests, and epic battles.
+* **Mythical Creatures:** Encounter legendary beings like dragons, sphinxes, and mysterious fae.
+* **Heroic Quests:** Embark on epic adventures, uncover forgotten prophecies, and stand against the encroaching darkness.
 
-The book is organized into chapters, each focusing on different aspects of game development, from lore creation to designing distributed systems. The book's contents are in the [Table of Contents](/table-of-contents.md). As the book is currently *very early* in its development phase, don't be alarmed if the table of contents were to change (new additions, removing chapters/sections, modifying the structure, and such).
+#### Game Development Insights
 
-## Contributing
+* **Crafting the Adventure:** Learn game development as we create **"Beware of Dragons."** Discover world-building, character design, and magical systems.
+* **The Magic of Imagination:** Witness storytelling's enchantment as we blend code and creativity.
 
-We welcome contributions from the community to make this resource even more valuable. If you'd like to contribute to the book by adding new content, fixing errors, or suggesting improvements, please follow these steps:
+#### Demystifying Distributed Systems
 
-1. Fork this repository to your GitHub account.
-2. Create a new branch for your contribution (`git checkout -b your-feature`).
-3. Make your changes and commit them (`git commit -m "Added new chapter on XYZ"`).
-4. Push your changes to your forked repository (`git push origin your-feature`).
-5. Open a Pull Request (PR) from your forked repository to this main repository.
-6. Our team will review your PR, provide feedback, and merge it if everything looks good.
+* **An Unconventional Blend:** Explore distributed systems' principles while facing challenges in the fantasy world.
+* **Real-World Connections:** See tech concepts come alive in the adventure.
 
-For more details on contributing, please see our [Contributing Guidelines](/contributing.md).
+### Why It Appeals to Software Enthusiasts
 
-## Feedback and Issues
+Software enthusiasts, this adventure is for you too! Here's why you should be excited:
 
-We value your feedback and encourage you to report any issues or suggest improvements. If you encounter a problem with the book content code examples or have a general suggestion, please [open an issue](https://github.com/yourusername/beware-of-dragons-book/issues).
+#### A Fusion of Passions
 
-## License
+* **Tech Lovers:** Dive into tech and distributed systems while battling mythical creatures.
+* **Game Developers:** Discover how world-building, character development and magic translate into immersive gameplay.
 
-This book is released under the [MIT License](/LICENSE), a permissive open-source license that encourages collaboration and innovation. Under this license, you are free to:
+#### A Playground for Problem Solvers
 
-- Use this book for personal or commercial purposes.
-- Modify and adapt the content to suit your needs.
-- Share and distribute the book in any format.
-- Incorporate portions of the book into your projects.
+* **Critical Thinking:** Sharpen your problem-solving skills facing challenges in both realms.
+* **Architects of Worlds:** Learn to design enchanting realms and dependable software systems.
 
-The only requirement is that you provide proper attribution to the original work, acknowledging the contributions of the authors and contributors.
+### Your Role in This Adventure
+
+As a reader, you're part of this journey. Engage, share, and help shape **"Beware of Dragons."** Your questions, feedback, and creativity guide us.
+
+### Begin Your Epic Quest
+
+Ready to wield your sword and coding skills? Turn the page, embark on your quest, forge ahead, and beware of dragons.\
 
 
-I believe in fostering a community of creativity and collaboration. Feel free to embark on adventures inspired by "Beware of Dragons" and share your knowledge with the world.
-
-Happy reading, and may your journey through the "Beware of Dragons" world be filled with creativity, adventure, and boundless imagination!
