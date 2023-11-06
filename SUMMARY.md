@@ -1,5 +1,8 @@
 # Table of contents
 
 * [README](README.md)
-* [Why this book](why-this-book.md)
-* [Audience for the book](audience-for-the-book.md)
+* [Preface](preface/README.md)
+  * [Why this book](preface/why-this-book.md)
+  * [Structure of the book](preface/structure-of-the-book.md)
+  * [Audience for the book](preface/audience-for-the-book.md)
+  * [How to read the book](preface/how-to-read-the-book.md)
