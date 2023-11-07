@@ -1,0 +1,7 @@
+# What is different about this guide?
+
+With step-by-step guidance, readers will design, implement, and maintain a fully functional MUD game server. Along the way, they will gain valuable insights into distributed systems, programming, world-building, and creative storytelling. This journey is an opportunity to create an original project while gaining experience in game and web development. Ultimately, it aims to inspire readers to explore the world of software engineering by engaging in a tangible, hands-on project, setting the stage for future software development endeavors.
+
+The book aspires to focus mainly on first principles. That means that as we focus on specific parts of the system, we'll go over at a high level how we should go about reasoning about the problem and coming up with solutions. As we talk about approaches, we won't be tied up to specific technologies at first but rather the general software tools that might be useful to get around a given issue. Doing so, if someone wishes to use, say, Typescript, Python, .NET, or Rust, for instance, to approach developing their game server, they should still be able to follow along.
+
+For the book's sake, readers who want to dive more deeply will be redirected to design artifacts, going to lengths into all the details. This approach ensures that everyone can quickly grasp the book's essence (especially if you're in a hurry).&#x20;
