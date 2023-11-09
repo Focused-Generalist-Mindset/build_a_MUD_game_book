@@ -18,7 +18,7 @@ layout:
 
 # The Eclipsian Brotherhood
 
-<figure><img src="../../.gitbook/assets/image0_0.jpg" alt=""><figcaption><p>The emblem of the brotherhood</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image0_0.jpg" alt=""><figcaption><p>The emblem of the brotherhood</p></figcaption></figure>
 
 Philosophy: The Eclipsian Brotherhood is a secretive and enigmatic faction that worships the ancient King, a mythical being believed to have the power to reshape the world. They are dedicated to awakening the King and ushering in a new era under his rule, with Shadowweaving as their primary source of magic.
 

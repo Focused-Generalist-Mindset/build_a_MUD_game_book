@@ -14,7 +14,7 @@ layout:
 
 # Ignatius - Dragon King
 
-<figure><img src="../../.gitbook/assets/image0_0-2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image0_0-2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 \
 Ignatius, the Dragon King, was renowned for his colossal size, iridescent azure scales, and the raw elemental power he commanded. Legends spoke of his ability to manipulate not just fire but also the essence of draconic magic. The Eclipsian Brotherhood, a group of scholars and wizards, seeks to resurrect Ignarius to harness his unparalleled magic and control him as a weapon against their enemies. The prospect of commanding such a mighty force is a temptation too great for the Brotherhood to resist.

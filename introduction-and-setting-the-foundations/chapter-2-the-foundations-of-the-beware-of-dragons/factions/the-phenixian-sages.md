@@ -7,7 +7,7 @@ description: >-
 
 # The Phenixian Sages
 
-<figure><img src="../../.gitbook/assets/image1_0.jpg" alt=""><figcaption><p>The emblem of the sages</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image1_0.jpg" alt=""><figcaption><p>The emblem of the sages</p></figcaption></figure>
 
 Philosophy: The Phenixian Sages is a noble and chivalrous organization dedicated to the principles of Aurawelding, a revered discipline of light and purity. They believe in maintaining harmony within the world, using their magic to protect and guide the people.
 
