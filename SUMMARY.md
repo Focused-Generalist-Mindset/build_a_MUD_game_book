@@ -30,4 +30,5 @@
   * [Major plot antogonists](introduction-and-setting-the-foundations/chapter-2-the-foundations-of-the-beware-of-dragons/major-plot-antogonists/README.md)
     * [Malgorth, the Shadow Weaver Lord](introduction-and-setting-the-foundations/chapter-2-the-foundations-of-the-beware-of-dragons/major-plot-antogonists/malgorth-the-shadow-weaver-lord.md)
     * [Seraphina, High Draconic Priestess](introduction-and-setting-the-foundations/chapter-2-the-foundations-of-the-beware-of-dragons/major-plot-antogonists/seraphina-high-draconic-priestess.md)
+    * [Moros Blackthorn: The Malevolent Warden](introduction-and-setting-the-foundations/chapter-2-the-foundations-of-the-beware-of-dragons/major-plot-antogonists/moros-blackthorn-the-malevolent-warden.md)
   * [Nexus](introduction-and-setting-the-foundations/chapter-2-the-foundations-of-the-beware-of-dragons/nexus.md)
