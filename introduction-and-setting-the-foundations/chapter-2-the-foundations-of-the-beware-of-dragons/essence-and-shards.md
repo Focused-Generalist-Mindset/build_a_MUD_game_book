@@ -1,2 +1,0 @@
-# Essence & Shards
-
