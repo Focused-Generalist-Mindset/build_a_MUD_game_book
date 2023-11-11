@@ -8,11 +8,7 @@ description: >-
 
 ## Introduction
 
-Greetings, adventurer! Prepare for a world where fantasy meets tech, dragons roam, and distributed systems become part of your epic quest. **"Beware of Dragons"** isn't a book—it's an invitation to an adventure like no other.
-
-### Where Fantasy and Tech Collide
-
-In this unique journey, we blend high-fantasy tales with distributed systems. Inspired by authors like David Eddings, Christopher Paolini, and Terry Goodkind, this world combines magic and modern technology.
+**Beware of Dragons** is an epic multiplayer text adventure that combines elements from high and dark fantasy. This practical guide takes the readers on a thrilling journey through the enigmatic lands of Echovale. You will encounter dragons roaming the skies, hidden creatures dwelling in the darkest corners, and fight several antagonists to try to maintain balance in the lands.
 
 ### What Awaits You
 
