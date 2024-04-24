@@ -1,17 +1,17 @@
-# Beware of dragons in the dungeons
+# Build a distributed multi-user dungeon text adventure
 
 ![Book Image](assets/beware-of-dragons.png)
 
 # Repository overview
 
-Explore the captivating world of 'Beware of Dragons,' a high-fantasy Multi-User Dungeon (MUD) text adventure game powered by Elixir and Phoenix. From crafting rich lore to mastering distributed systems, this open-source book guides aspiring game developers through the art of game design, storytelling, and technical implementation. Discover the secrets of character classes, allegiances, and dynamic combat while fostering player engagement through leaderboards and fair play. Immerse yourself in a realm of creativity where imagination knows no bounds. Join our community of contributors and embark on an epic journey through 'Beware of Dragons.
+Explore the captivating world of 'Beware of Dragons,' a high-fantasy Multi-User Dungeon (MUD) text adventure game powered by Typescript and NodeJS. From crafting rich lore to mastering distributed systems, this open-source book guides aspiring game developers through the art of game design, storytelling, and technical implementation. Discover the secrets of character classes, allegiances, and dynamic combat while fostering player engagement through leaderboards and fair play. Immerse yourself in a realm of creativity where imagination knows no bounds. Join our community of contributors and embark on an epic journey through 'Beware of Dragons.
 
 [![GitHub](https://img.shields.io/badge/beware_of_dragons-game_server-blue)](https://github.com/Beware-of-dragons/dungeons-crafter)
 [![GitHub](https://img.shields.io/badge/beware_of_dragons-gitbook-blue)](https://kevin-avignon.gitbook.io/beware-of-dragons/)
 
 
 ## Table of Contents
-- [Beware of dragons in the dungeons](#beware-of-dragons-in-the-dungeons)
+- [Build a distributed multi-user dungeon text adventure](#build-adistributed-multi-user-dungeon-text-adventure)
 - [Repository overview](#repository-overview)
   - [Table of Contents](#table-of-contents)
   - [About the Book](#about-the-book)
@@ -22,7 +22,7 @@ Explore the captivating world of 'Beware of Dragons,' a high-fantasy Multi-User 
 
 ## About the Book
 
-"Beware of Dragons" is a comprehensive guide that takes you through the journey of creating an immersive multiplayer text adventure game using Elixir, Phoenix, and LiveView. Whether you're a seasoned developer or just starting, this book provides valuable insights into game development, distributed systems, and best practices. In time, I hope it becomes a community-driven effort to provide a new learning resource to pick up Phoenix/LiveView and good practices in distributed systems.
+"Beware of Dragons" is a comprehensive guide that takes you through the journey of creating an immersive multiplayer text adventure game using Typescript, NodeJS, and ReactJS. Whether you're a seasoned developer or just starting, this book provides valuable insights into game development, distributed systems, and best practices. In time, I hope it becomes a community-driven effort to provide a new learning resource to pick up Phoenix/LiveView and good practices in distributed systems.
 
 ## Contents
 
@@ -54,7 +54,7 @@ This book is released under the [MIT License](/LICENSE), a permissive open-sourc
 - Share and distribute the book in any format.
 - Incorporate portions of the book into your projects.
 
-The only requirement is that you provide proper attribution to the original work, acknowledging the contributions of the authors and contributors.
+The only requirement is that you provide proper attribution to the original work and acknowledge the contributions of the authors and contributors.
 
 
 I believe in fostering a community of creativity and collaboration. Feel free to embark on adventures inspired by "Beware of Dragons" and share your knowledge with the world.
